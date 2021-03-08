@@ -11,6 +11,7 @@ public class Article {
 	private Date updated;
 	//private Date newCreatedDate;
 	//private Date newUpdatedDate;
+	
 
 	
 	public Article(int id, String name, int yearCreated, int monthCreated, int dayCreated, 

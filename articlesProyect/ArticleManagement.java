@@ -11,6 +11,7 @@ public class ArticleManagement {
 		for (int i = 1; i < qty+1; i++){
 			String articleName = "Art " + i;
 			myArticles.add(new Article (i, articleName, 1999, 05, 18, 2008, 06, 12));
+			
 		}
 	}
 

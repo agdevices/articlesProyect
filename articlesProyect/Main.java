@@ -21,7 +21,6 @@ public class Main {
 		System.exit(0);
 		}		
 		
-		
 		String option = "";
 		try {
 			while (option.equals("B") != true && option.equals("E") != true &&
